@@ -1,0 +1,12 @@
+.vscode/
+documents/
+_*
+*.xmpdata
+*.abs
+*.xmpi
+*.log
+*.fls
+*.aux
+*.gz
+*.out
+*.fdb_latexmk
